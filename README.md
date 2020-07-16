@@ -1,4 +1,4 @@
-[![cartoon-nash2](nyasha-software-developer.png)](https://github.com/NyashaNziramasanga/NyashaNziramasanga/blob/master/nyasha-software-developer.png)](https://github.com/NyashaNziramasanga/NyashaNziramasanga/blob/master/nyasha-software-developer.png)
+![cartoon](https://github.com/NyashaNziramasanga/NyashaNziramasanga/blob/master/nash-software-developer.png)
 
 <p align="center=>
 	<a href="https://github.com/NyashaNziramasanga"><img src="https://img.shields.io/github/followers/NyashaNziramasanga.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -14,4 +14,3 @@
 
 - Learn React Native and build a mobile app
 - Internship
--
