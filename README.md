@@ -7,11 +7,9 @@
 <br/><a href="https://www.nyashanziramasanga.com/">nyashanziramasanga.com</a>
 </p>
 
-## Hi there 👋🏾, I'm Nyasha
-
-[nyashanziramasanga.com](https://www.nyashanziramasanga.com/)
+<!-- ## Hi there 👋🏾, I'm Nyasha
 
 ## Goals for 2020
 
 - Learn React Native and build a mobile app
-- Internship
+- Internship -->
