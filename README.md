@@ -7,7 +7,14 @@
 <br/><a href="https://www.nyashanziramasanga.com/">nyashanziramasanga.com</a>
 </p>
 
-<!-- ## Hi there 👋🏾, I'm Nyasha
+<!--
+## Hi there 👋🏾, I'm Nyasha
+
+I am a Software Developer based in Australia, and develop web apps.
+
+I currently specialise in using TypeScript, JavaScript, React, Node, Express and MongoDB when developing apps.
+
+I am also a Masters of Computer Science
 
 ## Goals for 2020
 
