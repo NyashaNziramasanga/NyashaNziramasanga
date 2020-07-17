@@ -10,9 +10,9 @@
 <!--
 ## Hi there 👋🏾, I'm Nyasha
 
-I am a Software Developer based in Australia, and develop web apps.
+I am a Software Developer based in Australia, and develop web apps .
 
-I currently specialise in using TypeScript, JavaScript, React, Node, Express and MongoDB when developing apps.
+Some technologies I enjoy working with are TypeScript, JavaScript, ReactJS, NodeJS, Express and MongoDB for building full-stack apps.
 
 I am also a Masters of Computer Science
 
