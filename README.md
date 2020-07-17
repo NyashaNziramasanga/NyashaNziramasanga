@@ -8,9 +8,7 @@
 </p>
 
 <!--
-## Hi there 👋🏾, I'm Nyasha
-
-I am a Software Developer based in Australia, and develop web apps .
+## Hi 👋🏾, I'm Nyasha and I am a Software Developer based in Australia.
 
 Some technologies I enjoy working with are TypeScript, JavaScript, ReactJS, NodeJS, Express and MongoDB for building full-stack apps.
 
