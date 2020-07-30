@@ -15,15 +15,16 @@
 	<img src="https://github-readme-stats.vercel.app/api/?username=NyashaNziramasanga&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 
-
 <!--
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyashaNziramasanga&layout=compact&theme=radical"></img>
+</p>
+
 Hi 👋🏾, I'm Nyasha and I am a Software Developer based in Australia.
 
 Some technologies I enjoy working with are TypeScript, JavaScript, ReactJS, NodeJS, Express and MongoDB for building full-stack apps.
 
 I am also a Masters of Computer Science
-
-![Nyashas's github stats](https://github-readme-stats.vercel.app/api/?username=NyashaNziramasanga&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515)
 
 ## Goals for 2020
 
