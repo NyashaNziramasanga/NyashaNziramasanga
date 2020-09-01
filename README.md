@@ -19,14 +19,4 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyashaNziramasanga&layout=compact&theme=radical"></img>
 </p>
-
-Hi 👋🏾, I'm Nyasha and I am a Software Developer based in Australia.
-
-Some technologies I enjoy working with are TypeScript, JavaScript, ReactJS, NodeJS, Express and MongoDB for building full-stack apps.
-
-I am also a Masters of Computer Science
-
-## Goals for 2020
-
-- Learn React Native and build a mobile app
-- Internship -->
+ -->
