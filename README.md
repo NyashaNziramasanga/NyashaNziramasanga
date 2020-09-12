@@ -11,6 +11,13 @@
 	TypeScript · JavaScript · ReactJS · NodeJS · Express · MongoDB
 </p>
 
+<code><img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/typescript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/javascript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/react.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/nodejs.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/express.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/mongodb.svg"></code>
+
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=NyashaNziramasanga&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
