@@ -1,4 +1,4 @@
-![cartoon](https://github.com/NyashaNziramasanga/NyashaNziramasanga/blob/master/nash-software-developer.png)
+![banner](https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/nash-software-developer.png)
 
 <p align="center">
 	<a href="https://github.com/NyashaNziramasanga"><img src="https://img.shields.io/github/followers/NyashaNziramasanga.svg?label=GitHub&style=social" alt="GitHub"></a>
