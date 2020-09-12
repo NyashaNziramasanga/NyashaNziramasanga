@@ -10,22 +10,12 @@
 <p align="center">
 	<code>
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/typescript.svg">
-	</code>
-	<code>
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/javascript.svg">
-			</code>
-	<code>
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/react.svg">
-			</code>
-	<code>
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/nodejs.svg">
-			</code>
-	<code>
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/mongodb.svg">
-			</code>
-	<code>
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/express.svg">
-			</code>
+	</code>
 </p>
 
 <p align="center">
