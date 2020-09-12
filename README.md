@@ -9,12 +9,12 @@
 
 <p align="center">
 	<code>
-		<img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/typescript.svg">
-		<img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/javascript.svg">
-		<img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/react.svg">
-		<img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/nodejs.svg">
-		<img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/express.svg">
-		<img height="20" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/mongodb.svg">
+		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/typescript.svg">
+		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/javascript.svg">
+		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/react.svg">
+		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/nodejs.svg">
+		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/mongodb.svg">
+		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/express.svg">
 	</code>
 </p>
 
