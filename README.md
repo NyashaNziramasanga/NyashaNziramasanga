@@ -15,6 +15,7 @@
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/nodejs.svg">
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/mongodb.svg">
 		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/express.svg">
+		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/sass.svg">
 	</code>
 </p>
 
