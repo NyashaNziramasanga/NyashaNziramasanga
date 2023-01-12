@@ -8,20 +8,3 @@
 	<br/><i>Software Engineer</i> 
 	
 </p>
-
-<p align="center">
-	<code>
-		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/typescript.svg">
-		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/javascript.svg">
-		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/react.svg">
-		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/nodejs.svg">
-		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/mongodb.svg">
-		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/firebase.svg">
-		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/express.svg">
-		<img height="30" src="https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/sass.svg">
-	</code>
-</p>
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/?username=NyashaNziramasanga&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
-</p>
