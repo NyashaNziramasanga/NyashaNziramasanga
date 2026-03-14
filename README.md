@@ -5,6 +5,6 @@
 	</a>
 	<a href="https://www.linkedin.com/in/nyasha-nash-nziramasanga-446380116"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <br/><a href="https://www.nyashanziramasanga.com/">nyashanziramasanga.com</a>
-	<br/><i>Senior Software Engineer</i> 
+	<br/><i>Senior Software Engineer (Mobile) at Linktree</i> 
 	
 </p>
